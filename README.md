@@ -73,7 +73,7 @@ Questions you should ask yourself:
   * takes an `Integer` argument that is a year and returns all of the cults founded in that year
 
 **`Follower`**
-
+<!--
 * `Follower#name`
   * returns a `String` that is the follower's name
 * `Follower#age`
@@ -87,7 +87,7 @@ Questions you should ask yourself:
 * `Follower.all`
   * returns an `Array` of all the followers
 * `Follower.of_a_certain_age`
-  * takes an `Integer` argument that is an age and returns an `Array` of followers who are the given age or older
+  * takes an `Integer` argument that is an age and returns an `Array` of followers who are the given age or older -->
 
 **`BloodOath`**
 
